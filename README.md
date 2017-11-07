@@ -1,6 +1,6 @@
 # Wittr
 
-This is a silly little demo app for an offline-first course.
+This is my fork of a silly little demo app for an offline-first course @udacity
 
 # Installing
 
